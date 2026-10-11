@@ -22,6 +22,8 @@ This project is based on SharKingStudios/Starbie's Week 1 guide and the supplied
 | Power | 3V3 | — | `3V3` |
 | Ground | GND | — | `GND` |
 
+<img width="643" height="519" alt="Starbie pcb 2" src="https://github.com/user-attachments/assets/d1facf39-8ce3-4fc9-8ac6-d51a68db5f65" />
+
 The OLED footprint uses the care-package pad order: 1=GND, 2=VDD, 3=SCL, 4=SDA.
 The MPU6050 module footprint is mapped as 1=VCC, 2=GND, 3=SCL, 4=SDA; pads 5–8 are left unconnected.
 The DHT11 header is mapped 1=3V3, 2=DATA, 3=NC, 4=GND.
